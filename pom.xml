@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <name>11.10.21</name>
+	      <url>http://13.235.104.54:8081/repository/Vasu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <name>Vasu-snapshot</name>
+	      <url>http://13.235.104.54:8081/repository/Vasu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
