@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>11.10.21</name>
-	      <url>http://13.233.190.189:8081/repository/Vasu-release/</url>
+	      <name>Paytm-Release</name>
+	      <url>http://13.127.167.24:8081/repository/Paytm-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Vasu-snapshot</name>
-	      <url>http://13.233.190.189:8081/repository/Vasu-snapshot/</url>
+	      <name>Paytm-snapshot</name>
+	      <url>http://13.127.167.24:8081/repository/Paytm-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
